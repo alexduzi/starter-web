@@ -14,6 +14,10 @@ As stated above, the main purpose is to provide simple examples for Git
 
 This is a simple web project, deployment can be on any web server.
 
+## How to contribute
+
+Please fork this repository and then issue Pull Request
+
 ### Copyright
 
 Git.Training.
